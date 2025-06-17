@@ -1,0 +1,19 @@
+{
+  "appName": "search",
+  "userId": "u_123",
+  "sessionId": "s_123",
+  "newMessage": {
+    "role": "user",
+    "parts": [
+      {
+        "text": "Describe the contents of this image."
+      },
+      {
+        "fileData": {
+          "mimeType": "image/jpeg",
+          "fileUri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwedd5j_c6PTFO-7_bYjc72mmljZ14Ws_TpXuypGB1d_Kw1_1bH22OihTxOjGvUnSlJS6ryR4f5hNSXUMW15DkUA"
+        }
+      }
+    ]
+  }
+}
